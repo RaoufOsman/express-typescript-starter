@@ -1,1 +1,1 @@
-# express-typescript-starter
+# Express typescript starter
